@@ -92,7 +92,7 @@
                             <br>
                             <div class="card m-2" >
                                 <div class="card-header" >
-                                    <h2>USER LISTS</h2>
+                                    <h2>USER LIST</h2>
                                 </div>
                                 <div class="card-body">
                                     <table class="table mt-5">
